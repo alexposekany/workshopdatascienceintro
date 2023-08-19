@@ -4,6 +4,8 @@
 
 **Data exploration** is about getting to know the data through *visualisations* and *descriptive statistics* (arithmetic mean, median are prominent examples). 
 
+You find the presentation for the data exploration part [here](https://github.com/alexposekany/workshopdatascienceintro/blob/main/DataVisualisationExploration_workshop_short.pdf)
+
 [DataExplorationandModelFitting](https://wilhelmofconfusion.shinyapps.io/DataExplorationandModelFitting/)
 
 [clusteringandmodality](https://wilhelmofconfusion.shinyapps.io/clusteringandmodality/)
