@@ -4,9 +4,9 @@
 
 **Data exploration** is about getting to know the data through *visualisations* and *descriptive statistics* (arithmetic mean, median are prominent examples). 
 
-[](https://wilhelmofconfusion.shinyapps.io/DataExplorationandModelFitting/)
+[DataExplorationandModelFitting](https://wilhelmofconfusion.shinyapps.io/DataExplorationandModelFitting/)
 
-[](https://wilhelmofconfusion.shinyapps.io/clusteringandmodality/)
+[clusteringandmodality](https://wilhelmofconfusion.shinyapps.io/clusteringandmodality/)
 
 ## Data Modelling 
 
