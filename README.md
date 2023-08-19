@@ -1,1 +1,22 @@
-# workshopdatascienceintro
+# Workshop for Introduction to Data Science
+
+## Data Exploration
+
+**Data exploration** is about getting to know the data through *visualisations* and *descriptive statistics* (arithmetic mean, median are prominent examples). 
+
+[](https://wilhelmofconfusion.shinyapps.io/DataExplorationandModelFitting/)
+
+[](https://wilhelmofconfusion.shinyapps.io/clusteringandmodality/)
+
+## Data Modelling 
+
+Creating models based on data has two main goals: 
+- learning relations between the variables in the models and their structure
+- predicting future data based on previous one
+
+In **Machine Learning** these approaches are often split dependent on the amount of knowledge and data available on the process you wish to learn about or predict:
+- *supervised learning* (all outcomes are already know for training the algorithm)
+- *semi-supervised learning* (some outcomes are already know for training the algorithm, other training data or validation data have no outcomes known in advance)
+- *unsupervised learning* (what is to be learned be the algorithm is not available as previous data, because it is unknown, unmeasurable etc.)
+
+
