@@ -6,6 +6,8 @@
 
 You find the presentation for the data exploration part [here](https://github.com/alexposekany/workshopdatascienceintro/blob/main/DataVisualisationExploration_workshop_short.pdf)
 
+In addtion you find the links to the two examples where you can try out data exploration yourself: 
+
 [DataExplorationandModelFitting](https://wilhelmofconfusion.shinyapps.io/DataExplorationandModelFitting/)
 
 [clusteringandmodality](https://wilhelmofconfusion.shinyapps.io/clusteringandmodality/)
