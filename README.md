@@ -1,4 +1,7 @@
-# Workshop for Introduction to Data Science
+# Workshop for Introduction to Data Science at BRAIINS Summer School 
+
+by Alexandra Posekany from [TGM Vienna](https://www.tgm.ac.at/) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Brigittenau_%28Wien%29_-_TGM-Hauptgeb%C3%A4ude.JPG/420px-Brigittenau_%28Wien%29_-_TGM-Hauptgeb%C3%A4ude.JPG)
+
 
 ## Data Exploration
 
